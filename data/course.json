@@ -1,0 +1,40 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Engineering",
+      "Computer Science",
+      "Theory of Computation"
+    ],
+    [
+      "Engineering",
+      "Systems Engineering"
+    ],
+    [
+      "Engineering",
+      "Electrical Engineering",
+      "Robotics and Control Systems"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "030befc3-653f-c37b-adeb-34d7d4700e88"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Dynamics of Nonlinear Systems",
+  "course_description": "This course provides an\u00a0introduction to nonlinear deterministic dynamical systems. Topics covered include: nonlinear ordinary differential equations; planar autonomous systems; fundamental theory: Picard iteration, contraction mapping theorem, and Bellman-Gronwall lemma; stability of equilibria by Lyapunov's first and second methods; feedback linearization; and application to nonlinear circuits and control systems.\n",
+  "department_numbers": [
+    "6",
+    "2",
+    "16"
+  ],
+  "extra_course_numbers": "2.156J,16.337J",
+  "primary_course_number": "6.243J",
+  "learning_resource_types": [
+    "Problem Sets with Solutions",
+    "Exams with Solutions",
+    "Lecture Notes"
+  ],
+  "title": "Course Metadata"
+}
